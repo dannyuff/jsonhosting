@@ -7,4 +7,14 @@
   "PhoneNumnber"    : "555-555-5555"
   "MainComputer"    : "2020 Mac Mini M1"
 }
+
+{
+  "Firstname"       : "Kelly"
+  "Lastname"        : "L"
+  "Age"             : "20"
+  "EyeColor"        : "Brown"
+  "Disability"      : "Cerebral Palsy"
+  "PhoneNumber"     : "555-321-1234"
+  "MainComputer"    : "iPad Pro"
+}
   
