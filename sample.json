@@ -18,3 +18,12 @@
   "MainComputer"    : "iPad Pro"
 }
   
+{ 
+  "Firstname"       : "Ralph"
+  "Lastname"        : "Uff"
+  "Age"             : "86"
+  "EyeColor"        : "Green"
+  "Disability"      : "None"
+  "PhoneNumber"     : "555-123-5432"
+  "MainComputer"    : "None"
+}
