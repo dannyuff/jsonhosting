@@ -1,29 +1,31 @@
+[
 {
-  "Firstname"       : "Danny"
-  "Lastname"        : "U"
-  "Age"             : "54"
-  "EyeColor"        : "Green"
-  "Disability"      : "Cerebral Palsy"
-  "PhoneNumber"    : "555-555-5555"
-  "MainComputer"    : "2020 Mac Mini M1"
+  "Firstname"       : "Danny",
+  "Lastname"        : "U",
+  "Age"             : "54",
+  "EyeColor"        : "Green",
+  "Disability"      : "Cerebral Palsy",
+  "PhoneNumber"    : "555-555-5555",
+  "MainComputer"    : "2020 Mac Mini M1",
 }
 
 {
-  "Firstname"       : "Kelly"
-  "Lastname"        : "L"
-  "Age"             : "20"
-  "EyeColor"        : "Brown"
-  "Disability"      : "Cerebral Palsy"
-  "PhoneNumber"     : "555-321-1234"
-  "MainComputer"    : "iPad Pro"
+  "Firstname"       : "Kelly",
+  "Lastname"        : "L",
+  "Age"             : "20",
+  "EyeColor"        : "Brown",
+  "Disability"      : "Cerebral Palsy",
+  "PhoneNumber"     : "555-321-1234",
+  "MainComputer"    : "iPad Pro",
 }
   
 { 
-  "Firstname"       : "Ralph"
-  "Lastname"        : "Uff"
-  "Age"             : "86"
-  "EyeColor"        : "Green"
-  "Disability"      : "None"
-  "PhoneNumber"     : "555-123-5432"
-  "MainComputer"    : "None"
+  "Firstname"       : "Ralph",
+  "Lastname"        : "Uff",
+  "Age"             : "86",
+  "EyeColor"        : "Green",
+  "Disability"      : "None",
+  "PhoneNumber"     : "555-123-5432",
+  "MainComputer"    : "None",
 }
+]
